@@ -31,6 +31,8 @@ Detección de movimiento:El sensor de movimiento detecta si una persona entra en
 Monitoreo nocturno: El sensor mide la luz ambiental. Si la luz es baja (indicación de que es de noche o el museo está cerrado), el sistema se activa, tener cuidad que no este atardeciendo o amaneciendo, para ellos tomar valores menores al 20% de luz como oscuridad.
 Alerta: Si el nivel de luz es bajo y se detecta movimiento o calor cerca de la obra, el sistema se activa completamente, emitiendo alertas visuales y sonoras. Si no se detecta movimiento ni calor, el sistema de monitoreo permanece inactivo.
 
-Proximidad peligrosa (sensor de distancia):El sensor mide la distancia entre el sensor y las personas durante el dia que se acercan a la obra. Si alguien se acerca a menos de 1 metro de la obra, el sistema considera esto un riesgo de daño.Alerta: Si la distancia es menor a 1 metro, el LED RGB se pone rojo y el buzzer emite una secuencia de alarmas, alertando al personal de seguridad."
+Proximidad peligrosa (sensor de distancia):El sensor mide la distancia entre el sensor y las personas durante el dia que se acercan a la obra. Si alguien se acerca a menos de 1 metro de la obra, el sistema considera esto un riesgo de daño.Alerta: Si la distancia es menor a 1 metro, el LED RGB se pone rojo y el buzzer emite una secuencia de alarmas, alertando al personal de seguridad.
 
-Monitorización en tiempo real:Los valores de los sensores (temperatura, luz, movimiento y distancia) se envían constantemente a una pantalla LCD. Esto permite al personal de seguridad verificar el estado de la obra de arte en tiempo real.
+Monitorización en tiempo real:Los valores de los sensores (temperatura, luz, movimiento y distancia) se envían constantemente a una pantalla LCD. Esto permite al personal de seguridad verificar el estado de la obra de arte en tiempo real."
+
+¿Complicaciones?
