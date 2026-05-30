@@ -22,4 +22,4 @@ Consigna:
 siendo 0%  TODA LA LUZ ENCENDIDA
 siendo 100% TODA LA LUZ APAGADA"
 
-¿Complicaciones?
+¿Complicaciones? Olvidé poner la formula para la temperatura,así que por un momento me dió resultados incoherentes.
