@@ -35,4 +35,4 @@ Proximidad peligrosa (sensor de distancia):El sensor mide la distancia entre el 
 
 Monitorización en tiempo real:Los valores de los sensores (temperatura, luz, movimiento y distancia) se envían constantemente a una pantalla LCD. Esto permite al personal de seguridad verificar el estado de la obra de arte en tiempo real."
 
-¿Complicaciones?
+¿Complicaciones?: Dificultad con la programación del sensor de proximidad y las conexiones de pantalla LCD
